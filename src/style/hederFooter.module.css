@@ -1,0 +1,66 @@
+nav ul button{
+    text-decoration: none;
+    text-align: center;
+    min-width: 50px;
+
+}
+nav ul a::before{
+    content: "";
+    width: 0;
+    background: rgb(255, 255, 255);
+    height: 1px;
+    margin: 0 auto;
+    display: block;
+    transition: 1000ms;
+
+
+}
+nav ul a:hover::before{
+    width: 100%;
+}
+nav ul a::after{
+    content: "";
+    width: 0;
+    background: rgb(255, 255, 255);
+    height: 1px;
+    margin: 0 auto;
+    display: block;
+    transition: 1000ms;
+
+
+}
+nav ul a:hover::after{
+    width: 100%;
+} 
+
+.div_social_footer {
+    padding-top: 20px;
+   
+
+}
+
+.div_social_footer div a i:hover,.div_social_footer div:hover   {
+    color: rgb(113, 112, 112);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+
+.box_social {
+    height: 60px;
+    width: 60px;
+}
+.ul_link {
+    font-size: small;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.ul_link:hover {
+    color: rgb(169, 159, 159);
+}
+.top_button { text-decoration: none; } 
+

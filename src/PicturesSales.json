@@ -1,0 +1,212 @@
+[
+    {
+        "image_name": "View of Mount Arbel in the Kinneret Valley",
+        "price": 250,
+        "src": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Ponte Vecchio Bridge over the Arno River",
+        "price": 180,
+        "src": "https://images.pexels.com/photos/1547813/pexels-photo-1547813.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "20x30 cm"
+    },
+    {
+        "image_name": "Rural landscape in northern Israel",
+        "price": 150,
+        "src": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "25x35 cm"
+    },
+    {
+        "image_name": "Blooming orange tree in a field",
+        "price": 120,
+        "src": "https://images.pexels.com/photos/1366909/pexels-photo-1366909.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Flowers",
+        "size": "18x24 cm"
+    },
+    {
+        "image_name": "International lake in the Australian mountains",
+        "price": 300,
+        "src": "https://images.pexels.com/photos/707344/pexels-photo-707344.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Sunset on the beach with palm trees",
+        "price": 200,
+        "src": "https://images.pexels.com/photos/1820563/pexels-photo-1820563.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Beaches",
+        "size": "35x45 cm"
+    },
+    {
+        "image_name": "Waterfall in a lush green forest",
+        "price": 280,
+        "src": "https://images.pexels.com/photos/733860/pexels-photo-733860.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "50x60 cm"
+    },
+    {
+        "image_name": "Aerial view of a mountain range",
+        "price": 220,
+        "src": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Field of sunflowers under a clear blue sky",
+        "price": 190,
+        "src": "https://images.pexels.com/photos/2086622/pexels-photo-2086622.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Flowers",
+        "size": "25x35 cm"
+    },
+    {
+        "image_name": "Majestic waterfall in the heart of the forest",
+        "price": 320,
+        "src": "https://images.pexels.com/photos/234272/pexels-photo-234272.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "60x80 cm"
+    },
+    {
+        "image_name": "Snow-capped mountains reflecting in a lake",
+        "price": 280,
+        "src": "https://images.pexels.com/photos/2189696/pexels-photo-2189696.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Spring blossoms in a Japanese garden",
+        "price": 200,
+        "src": "https://images.pexels.com/photos/298821/pexels-photo-298821.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Flowers",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Golden sunset over a calm ocean",
+        "price": 350,
+        "src": "https://images.pexels.com/photos/1161375/pexels-photo-1161375.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "50x60 cm"
+    },
+    {
+        "image_name": "Colorful tulip fields in Holland",
+        "price": 270,
+        "src": "https://images.pexels.com/photos/1276518/pexels-photo-1276518.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Flowers",
+        "size": "35x45 cm"
+    },
+    {
+        "image_name": "Misty forest with sunlight streaming through the trees",
+        "price": 300,
+        "src": "https://images.pexels.com/photos/1770809/pexels-photo-1770809.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Serenity of a secluded mountain lake",
+        "price": 400,
+        "src": "https://images.pexels.com/photos/2105416/pexels-photo-2105416.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "60x80 cm"
+    },
+    {
+        "image_name": "Autumn foliage in a tranquil park",
+        "price": 230,
+        "src": "https://images.pexels.com/photos/629162/pexels-photo-629162.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Vibrant coral reefs teeming with marine life",
+        "price": 450,
+        "src": "https://images.pexels.com/photos/1234035/pexels-photo-1234035.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Underwater",
+        "size": "70x90 cm"
+    },
+    {
+        "image_name": "Aurora borealis dancing over snowy mountains",
+        "price": 380,
+        "src": "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "50x60 cm"
+    },
+    {
+        "image_name": "Exotic birds in a tropical rainforest",
+        "price": 320,
+        "src": "https://images.pexels.com/photos/573863/pexels-photo-573863.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Nature",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Magnificent desert dunes under a starry sky",
+        "price": 270,
+        "src": "https://images.pexels.com/photos/612891/pexels-photo-612891.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "35x45 cm"
+    },
+    {
+        "image_name": "Gentle waves crashing on a rocky shore",
+        "price": 220,
+        "src": "https://images.pexels.com/photos/446462/pexels-photo-446462.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Beaches",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Sunrise over a misty lake",
+        "price": 300,
+        "src": "https://images.pexels.com/photos/316398/pexels-photo-316398.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Tropical paradise with palm trees and clear blue water",
+        "price": 380,
+        "src": "https://images.pexels.com/photos/624015/pexels-photo-624015.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Beaches",
+        "size": "50x60 cm"
+    },
+    {
+        "image_name": "Lush green vineyards under a sunny sky",
+        "price": 250,
+        "src": "https://images.pexels.com/photos/1028225/pexels-photo-1028225.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Colorful hot air balloons floating over a valley",
+        "price": 400,
+        "src": "https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Forest in the mist",
+        "price": 200,
+        "src": "https://images.pexels.com/photos/534164/pexels-photo-534164.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Nature",
+        "size": "30x40 cm"
+    },
+    {
+        "image_name": "Sunset over the mountains",
+        "price": 180,
+        "src": "https://images.pexels.com/photos/772803/pexels-photo-772803.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "20x30 cm"
+    },
+    {
+        "image_name": "Waterfall in the woods",
+        "price": 220,
+        "src": "https://images.pexels.com/photos/1381679/pexels-photo-1381679.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Nature",
+        "size": "40x50 cm"
+    },
+    {
+        "image_name": "Desert landscape",
+        "price": 170,
+        "src": "https://images.pexels.com/photos/1624504/pexels-photo-1624504.jpeg?auto=compress&cs=tinysrgb&h=350",
+        "category": "Landscapes",
+        "size": "25x35 cm"
+    }
+]
