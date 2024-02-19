@@ -8,7 +8,7 @@ const Weather = () => {
     const pos = useContext(Postion);
     const [dataWeather, setdataWeather] = useState(pos)
     useEffect(() => getAPi(), [pos]);
-    const apiKey = "5f66a799e398999c90fe1704c37b46e2";
+    const apiKey = "?";
     // const city = dataWeather;
     const url = `http://api.openweathermap.org/data/2.5/weather?q=${pos}&appid=${apiKey}&units=metric`;
 
