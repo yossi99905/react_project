@@ -1,8 +1,11 @@
 import React from 'react'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import { useNavigate } from 'react-router-dom';
+
 
 function ConectUs() {
+    const navigate = useNavigate();
     const handleSubmit = event => {
         event.preventDefault();
         navigate('/tankU');
