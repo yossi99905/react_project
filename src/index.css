@@ -427,5 +427,12 @@ textarea{
   .maps{
     z-index: 0;
   }
+
+  .nav-link.active{
+
+     font-size: larger;
+     color: rgb(130, 135, 138) !important;
+    
+  }
  
 
