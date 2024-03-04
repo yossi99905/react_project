@@ -7,6 +7,7 @@ import Gallery from './pages/Gallery';
 import About from './pages/About';
 import TankU from './pages/TankU';
 import Shop from './pages/Shop';
+import Login from './pages/Login';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Routes>
           
           <Route path='/' element={<Home/>}/>
+          <Route path='/login' element={<Login/>}/>
           <Route path='/conectUs' element={<ConectUs/>}/>
           <Route path='/QA' element={<QA/>}/>
           <Route path='/gallery' element={<Gallery/>}/>

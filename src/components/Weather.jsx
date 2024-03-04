@@ -1,6 +1,9 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Postion } from './Location'
 
+
+
+
 const Weather = () => {
 
 
@@ -8,8 +11,8 @@ const Weather = () => {
     const pos = useContext(Postion);
     const [dataWeather, setdataWeather] = useState(pos)
     useEffect(() => getAPi(), [pos]);
-    const apiKey = "?";
-    // const city = dataWeather;
+    const apiKey = process.env.REACT_APP_TOKEN;
+ 
     const url = `http://api.openweathermap.org/data/2.5/weather?q=${pos}&appid=${apiKey}&units=metric`;
 
     const getAPi = () => {
@@ -17,8 +20,8 @@ const Weather = () => {
         fetch(url)
             .then((res) => res.json())
             .then(data => {
-                console.log(pos)
-                console.log(data)
+                // console.log(pos)
+                // console.log(data)
                 setdataWeather(data.main.temp)
 
 
